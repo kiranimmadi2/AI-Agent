@@ -1,4 +1,4 @@
-https://github.com/kiranimmadi2/AI-Agent/blob/98eafdb30e170441c93f9653a259c0127e5b2f91/web-ui.png
+![imagealt](https://github.com/kiranimmadi2/AI-Agent/blob/98eafdb30e170441c93f9653a259c0127e5b2f91/web-ui.png)
 
 <br/>
 
