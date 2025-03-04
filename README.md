@@ -1,4 +1,4 @@
-<img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
+https://github.com/kiranimmadi2/AI-Agent/blob/98eafdb30e170441c93f9653a259c0127e5b2f91/web-ui.png
 
 <br/>
 
